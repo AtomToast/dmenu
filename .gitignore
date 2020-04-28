@@ -1,6 +1,5 @@
 *.o
 *.diff
 *.desktop
-config.h
 dmenu
 stest
